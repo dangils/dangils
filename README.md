@@ -1,6 +1,6 @@
-##### Hi there! 👋  I'm Lee Han Gil         
-##### I want to be a great full stack developer✨
-##### so, I study and record various things to become a great develope  🚀  
+#### Hi there! 👋  I'm Lee Han Gil         
+#### I want to be a great full stack developer✨
+#### so, I study and record various things to become a great develope  🚀  
 
 <!--
 **dangils/dangils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
