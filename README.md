@@ -1,5 +1,5 @@
 #### Hi there! 👋  I'm Lee Han Gil         
-#### I want to be a great full stack developer✨
+#### I want to be a great developer✨
 #### so, I study and record various things🚀  
 
 <!--
