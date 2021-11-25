@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👨‍💻 All of my project records are available at https://dangils.tistory.com/
+- 👨‍💻 All of my project records are available at https://velog.io/@hangils
 
 - 💬 Ask me about please leave me a message!
 
