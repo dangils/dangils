@@ -1,5 +1,5 @@
 #### Hi there! 👋  I'm Lee Han Gil         
-#### I want to be a best programmer✨
+#### I want to be a best AI programmer✨
 #### so, I study and record various things🚀  
 
 <!--
