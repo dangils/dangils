@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 👨‍💻 All of my project records are available at https://velog.io/@hangils
+- 👨‍💻 All of my project records are available at [https://velog.io/@hangils](https://dangils.github.io/)
 
 - 💬 Ask me about please leave me a message!
 
