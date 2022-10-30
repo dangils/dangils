@@ -1,5 +1,5 @@
-#### Hi there! 👋  I'm Lee Han Gil         
-#### I want to be a best AI developer✨
+#### Hi there! 👋 I'm AI SW developer✨
+#### Interested in ML/DL and Data science
 #### so, I study and record various things🚀  
 
 <!--
