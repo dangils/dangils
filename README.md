@@ -1,5 +1,5 @@
 #### Hi there! 👋 I'm AI SW developer✨
-#### Interested in ML/DL and Data Engineering
+#### Interested in ML/DL and MLops
 #### so, I study and record various things🚀  
 
 <!--
